@@ -1,6 +1,6 @@
 <div align="center">
 
-# UI/UX Knowledge Sharing
+# UI/UX Knowledge Sharing (Part 1)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/44297246/227782379-0576a8a8-79cb-412c-996e-0eb5f9d31b5a.png">
 
